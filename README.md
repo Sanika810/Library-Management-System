@@ -5,6 +5,8 @@ This Java-based project implements a Library Management System that allows libra
 ## Project Structure
 
 ```
+Library management system
+
 ├── Main.java                  # Entry point of the program
 ├── books.txt                 # Stores list of available books
 ├── students.txt              # Stores student data
