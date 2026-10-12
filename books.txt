@@ -1,0 +1,11 @@
+B001,The Great Gatsby,F. Scott Fitzgerald,true,5
+B002,To Kill a Mockingbird,Harper Lee,true,3
+B003,1984,George Orwell,true,2
+B004,The Catcher in the Rye,J.D. Salinger,true,4
+B005,Brave New World,Aldous Huxley,true,6
+B006,The Hobbit,J.R.R. Tolkien,true,5
+B007,Animal Farm,George Orwell,true,5
+B008,The Book Thief,Markus Zusak,true,2
+B009,Fahrenheit 451,Ray Bradbury,true,2
+B010,Moby Dick,Herman Melville,false,0
+B011,The Alchemist,Paulo Coelho,true,3

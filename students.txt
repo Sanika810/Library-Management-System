@@ -1,0 +1,12 @@
+1001,John Doe,B001|B005|B007
+1002,Jane Smith,B003
+1003,Michael Johnson
+1004,Alice Lee,B002|B008
+1005,Rachel Green,B004|B010
+1006,Monica Geller
+1007,Chandler Bing,B009
+1008,Ross Geller,B001|B003
+1009,Phoebe Buffay,B011
+1010,Joey Tribbiani,B002|B004|B005
+1024,sanika,B009|B010
+2607,1
